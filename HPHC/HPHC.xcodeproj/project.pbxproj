@@ -1930,7 +1930,6 @@
 					6E7D2D551E433E8700763D4C = {
 						CreatedOnToolsVersion = 8.2.1;
 						LastSwiftMigration = 1010;
-						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
@@ -2597,7 +2596,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = FWLLYUH7XR;
+				DEVELOPMENT_TEAM = VL6HBXSLT9;
 				ENABLE_BITCODE = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				INFOPLIST_FILE = HPHC/Info.plist;
@@ -2608,7 +2607,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.3;
-				PRODUCT_BUNDLE_IDENTIFIER = com.hphci.fda.mobilestudies;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vml.mobilestudies;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "HPHC/Controllers/LoginRegisterUI/FDA-Bridging-Header.h";
@@ -2628,12 +2627,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = HPHC/FDA.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 108;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = FWLLYUH7XR;
+				DEVELOPMENT_TEAM = VL6HBXSLT9;
 				ENABLE_BITCODE = NO;
 				GCC_OPTIMIZATION_LEVEL = s;
 				INFOPLIST_FILE = HPHC/Info.plist;
@@ -2644,7 +2643,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.3;
-				PRODUCT_BUNDLE_IDENTIFIER = com.hphci.fda.mobilestudies;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vml.mobilestudies;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "HPHC/Controllers/LoginRegisterUI/FDA-Bridging-Header.h";
